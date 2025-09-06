@@ -8,6 +8,19 @@ nav_order: 5
 news: true
 ---
 ### East Carolina University, Aug. 2022 - present
+
+#### Fall 2025
+* ICTN 4200/01: Intrusion Detection Technologies
+
+#### Summer 2025
+* ICTN 6882: AI and Emerging Topics in Cybersecurity
+  
+#### Spring 2025
+* ICTN 6874: Cybersecurity Operation and Risk Management
+
+#### Fall 2024
+* ICTN 4200/01: Intrusion Detection Technologies
+  
 #### Spring 2024
 * ICTN 4904/05: Cyberinfrastructure Security Management
 * ICTN 6870: Advanced Network Security
