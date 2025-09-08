@@ -1,8 +1,8 @@
-<---
+
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: research
+permalink: /research/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
@@ -57,4 +57,4 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
--->
+
