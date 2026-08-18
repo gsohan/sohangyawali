@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: My research focus, current and past grants, and student projects.
+# description: My research focus, current and past grants, and student projects.
 nav: true
 nav_order: 3
 ---
