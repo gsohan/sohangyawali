@@ -8,6 +8,8 @@ nav_order: 3
 ---
 ## Grants & Funding
 
+#### Enhancing Career-Ready Skills in Cybersecurity Through Integrated ELK Stack and Machine Learning Labs
+** ECU 2026/2027 Teaching Grant ** · PI · Summer Stipend · 2024
 ##### Open-Source Intelligence Sandbox (OSINT)
 **Civil-Military Innovation Institute, Inc.** · PI · $261,847 · 2024
 
