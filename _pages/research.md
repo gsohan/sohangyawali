@@ -6,8 +6,27 @@ permalink: /research/
 nav: true
 nav_order: 3
 ---
+## Grants & Funding
 
-## Projects
+##### Open-Source Intelligence Sandbox (OSINT)
+**Civil-Military Innovation Institute, Inc.** · PI · $261,847 · 2024
+
+##### Misbehavior Detection in Vehicular Communication Networks
+**Toyota North America Inc.** (sub-contracted through UNL) · PI · $20,000 · 2020 - 2021
+
+##### Accelerating Credentials of Purpose and Value Grant Program
+**Texas Higher Education Coordinating Board (THECB)** · Co-PI · $410,000 · 2022
+
+##### GET PHIT: Gaining Equity in Training for Public Health Informatics and Technology
+**Office of the National Coordinator for Health Information Technology** · Co-PI · $265,000 · 2021
+
+##### RSCA Grant
+**University of Texas Permian Basin** · PI · $3,000 · 2021
+
+##### UT STARs Grant
+**University of Texas System** · PI · $80,150 · 2020
+
+## Current Projects
 <div class="row">
   <div class="col-md-6 mb-4">
     <div class="card h-100 p-3">
