@@ -1,7 +1,7 @@
 - name: Shazid Bin Zaman
   role: "Graudate Student"
   status: current
-  photo: students/jane-doe.jpg
+  photo: students/shazid.jpg
   bio: "Working on Prompt Injection Guardrails for Home IoT Assistants"
   email: binzamans25@students.ecu.edu
   
