@@ -1,0 +1,14 @@
+- name: Shazid Bin Zaman
+  role: "Graudate Student"
+  status: current
+  photo: students/jane-doe.jpg
+  bio: "Working on Prompt Injection Guardrails for Home IoT Assistants"
+  email: binzamans25@students.ecu.edu
+  
+
+- name: James Alexander Edwards
+  role: "Graduate Student"
+  status: current
+  photo: students/john-smith.jpg
+  bio: "Working on Benchmarking Network Education Platforms"
+  email: edwardsjam22@students.ecu.edu
