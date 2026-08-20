@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /students/
-title: Students
+title: students
 description: Current and former graduate/undergraduate students
 nav: true
 nav_order: 4
